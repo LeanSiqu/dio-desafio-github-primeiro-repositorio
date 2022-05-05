@@ -2,3 +2,16 @@ Link para download do Git: https://git-scm.com/downloads
 
 Principais comandos Git Bash:
 
+> git config 'Configura o user.name e user.email.'
+> git help 'Obtem ajuda para os comandos Git.'
+> git init 'Importa para o Git um repositório.'
+> git clone 'Clona um repositório.'
+> git add 'Começa a monitorar um novo arquivo.'
+> git status 'Mostra a condição dos arquivos no Git.'
+> git diff 'Verifica mudanças detalhadas nos arquivos.'
+> git commit 'Armazena o conteúdo em um novo commit.'
+> git reset 'Volta ao último commit.'
+> git rm 'Remove um arquivo do Git.'
+> git fetch 'Pega todos os dados dos projetos remotos.'
+> git pull 'Incorpora as alterações de um repositório remoto'
+> git push 'Transfere commits do repositório local para o remoto.'
